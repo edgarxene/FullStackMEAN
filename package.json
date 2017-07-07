@@ -15,5 +15,18 @@
   "bugs": {
     "url": "https://github.com/edgarxene/FullStackMEAN/issues"
   },
-  "homepage": "https://github.com/edgarxene/FullStackMEAN#readme"
+  "homepage": "https://github.com/edgarxene/FullStackMEAN#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.17.2",
+    "connect-multiparty": "^2.0.0",
+    "express": "^4.15.3",
+    "jwt-simple": "^0.5.1",
+    "moment": "^2.18.1",
+    "mongoose": "^4.11.1",
+    "mongoose-pagination": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
 }
