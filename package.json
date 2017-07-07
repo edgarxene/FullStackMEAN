@@ -1,0 +1,19 @@
+{
+  "name": "fullstackmean",
+  "version": "1.0.0",
+  "description": "Curso MEAN Udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgarxene/FullStackMEAN.git"
+  },
+  "author": "Edgar Samuel Cruz Albarran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edgarxene/FullStackMEAN/issues"
+  },
+  "homepage": "https://github.com/edgarxene/FullStackMEAN#readme"
+}
